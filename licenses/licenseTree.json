@@ -1,10 +1,10 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "name": "@dpuse/dpuse-tool-phoria2-visualiser",
   "dependencies": {
     "@dpuse/dpuse-development": {
-      "version": "1.0.145",
-      "resolved": "https://registry.npmjs.org/@dpuse/dpuse-development/-/dpuse-development-1.0.145.tgz",
+      "version": "1.0.147",
+      "resolved": "https://registry.npmjs.org/@dpuse/dpuse-development/-/dpuse-development-1.0.147.tgz",
       "overridden": false,
       "dependencies": {
         "@dpuse/dpuse-shared": {
