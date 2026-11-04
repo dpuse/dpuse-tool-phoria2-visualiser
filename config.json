@@ -1,0 +1,18 @@
+{
+    "id": "dpuse-tool-phoria2-visualiser",
+    "label": {
+        "en": "Phoria2 Visualiser"
+    },
+    "description": {
+        "en": "Renders interactive 3D charts and diagrams with phoria2, starting with a network topology."
+    },
+    "actionNames": [
+        "renderNetworkTopology"
+    ],
+    "icon": null,
+    "iconDark": null,
+    "statusId": "alpha",
+    "subProducts": [],
+    "typeId": "tool",
+    "version": "1.0.1"
+}
