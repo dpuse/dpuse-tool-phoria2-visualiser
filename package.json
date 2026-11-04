@@ -1,6 +1,6 @@
 {
     "name": "@dpuse/dpuse-tool-phoria2-visualiser",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "private": false,
     "description": "A TypeScript wrapper for phoria2 that implements the Data Positioning chart-rendering interface, providing a 3D network topology renderer.",
     "license": "MIT",
@@ -26,9 +26,6 @@
     "files": [
         "dist"
     ],
-    "publishConfig": {
-        "access": "public"
-    },
     "engines": {
         "node": ">=24",
         "npm": ">=12"
