@@ -1,0 +1,9 @@
+{
+    "phoria2@1.3.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/kevinroast/phoria2",
+        "publisher": "Kevin Roast",
+        "path": "node_modules/phoria2",
+        "licenseFile": "downloads/phoria2@1.3.0-LICENSE.txt"
+    }
+}
