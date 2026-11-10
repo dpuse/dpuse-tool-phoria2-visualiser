@@ -103,30 +103,6 @@ const data: NetworkTopologyData = {
     ]
 };
 
-// ── Helpers ──────────────────────────────────────────────────────────────────────────────────────────────────────────
-
-function lastView(): (typeof created.views)[number] {
-    const view = created.views.at(-1);
-    if (!view) throw new Error('No view was created.');
-    return view;
-}
-
-function render(options?: Parameters<typeof renderNetworkTopology>[2]): { handle: ReturnType<typeof renderNetworkTopology>; renderTo: HTMLDivElement } {
-    const renderTo = document.createElement('div');
-    document.body.append(renderTo);
-    const handle = renderNetworkTopology(data, renderTo, options);
-    return { handle, renderTo };
-}
-
-function rowFor(id: string): unknown {
-    const meshes = created.drawables.filter((drawable) => drawable.kind === 'instancedMesh');
-    for (const mesh of meshes) {
-        const row = (mesh.options['data'] as { id: string }[]).find((candidate) => candidate.id === id);
-        if (row) return row;
-    }
-    throw new Error(`No row for '${id}'.`);
-}
-
 // ── Tests ────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 beforeEach(() => {
@@ -250,3 +226,27 @@ describe('Phoria2Tool.renderNetworkTopology', () => {
         }).not.toThrow();
     });
 });
+
+// ── Helpers ──────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+function lastView(): (typeof created.views)[number] {
+    const view = created.views.at(-1);
+    if (!view) throw new Error('No view was created.');
+    return view;
+}
+
+function render(options?: Parameters<typeof renderNetworkTopology>[2]): { handle: ReturnType<typeof renderNetworkTopology>; renderTo: HTMLDivElement } {
+    const renderTo = document.createElement('div');
+    document.body.append(renderTo);
+    const handle = renderNetworkTopology(data, renderTo, options);
+    return { handle, renderTo };
+}
+
+function rowFor(id: string): unknown {
+    const meshes = created.drawables.filter((drawable) => drawable.kind === 'instancedMesh');
+    for (const mesh of meshes) {
+        const row = (mesh.options['data'] as { id: string }[]).find((candidate) => candidate.id === id);
+        if (row) return row;
+    }
+    throw new Error(`No row for '${id}'.`);
+}

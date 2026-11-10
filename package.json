@@ -1,6 +1,6 @@
 {
     "name": "@dpuse/dpuse-tool-phoria2-visualiser",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "private": false,
     "description": "A TypeScript wrapper for phoria2 that implements the Data Positioning chart-rendering interface, providing a 3D network topology renderer.",
     "license": "MIT",
@@ -46,7 +46,7 @@
     "allowScripts": {
         "fsevents@2.3.3": true,
         "esbuild@0.28.2": true,
-        "workerd@1.20261103.1": true
+        "workerd@1.20261110.1": true
     },
     "scripts": {
         "audit": "node -e \"import('@dpuse/dpuse-development').then(m => m.auditDependencies())\"",
@@ -60,12 +60,12 @@
         "test": "node -e \"import('@dpuse/dpuse-development').then(m => m.testProject())\""
     },
     "dependencies": {
-        "@dpuse/dpuse-shared": "^1.0.183",
-        "phoria2": "^1.3.0"
+        "@dpuse/dpuse-shared": "^1.0.205",
+        "phoria2": "^1.5.0"
     },
     "devDependencies": {
-        "@dpuse/dpuse-development": "^1.0.147",
-        "@dpuse/eslint-config-dpuse": "^1.0.149",
+        "@dpuse/dpuse-development": "^1.0.149",
+        "@dpuse/eslint-config-dpuse": "^1.0.150",
         "@types/node": "^26.6.6",
         "@vitest/coverage-v8": "^5.1.0",
         "eslint": "^10.14.0",
@@ -73,9 +73,9 @@
         "prettier": "^3.9.10",
         "sonda": "^0.14.0",
         "typescript": "^6.0.3",
-        "vite": "^8.3.5",
+        "vite": "^8.3.7",
         "vite-plugin-dts": "^5.1.2",
         "vitest": "^5.1.0",
-        "wrangler": "^4.157.0"
+        "wrangler": "^4.160.0"
     }
 }
