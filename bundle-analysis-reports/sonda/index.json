@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "0.14.0",
-    "generatedAt": "2026-11-04T22:27:49.238Z",
+    "generatedAt": "2026-11-22T12:13:06.311Z",
     "integration": "vite",
     "sources": false,
     "gzip": true,
@@ -21,8 +21,8 @@
       "name": "[unassigned]",
       "type": "other",
       "format": "other",
-      "uncompressed": 58,
-      "gzip": 54,
+      "uncompressed": 78,
+      "gzip": 55,
       "brotli": 0,
       "parent": "dist/dpuse-tool-phoria2-visualiser.es.js"
     },
@@ -31,20 +31,50 @@
       "name": "[unassigned]",
       "type": "other",
       "format": "other",
-      "uncompressed": 1337,
-      "gzip": 521,
+      "uncompressed": 2672,
+      "gzip": 1006,
       "brotli": 0,
-      "parent": "dist/bloom-DAJZus0O.js"
+      "parent": "dist/bloom-PeibIMJq.js"
     },
     {
       "kind": "chunk",
       "name": "[unassigned]",
       "type": "other",
       "format": "other",
-      "uncompressed": 187,
-      "gzip": 131,
+      "uncompressed": 44337,
+      "gzip": 9083,
       "brotli": 0,
-      "parent": "dist/explain-_vpezk3L.js"
+      "parent": "dist/core-DjyE2R8I.js"
+    },
+    {
+      "kind": "chunk",
+      "name": "[unassigned]",
+      "type": "other",
+      "format": "other",
+      "uncompressed": 908,
+      "gzip": 162,
+      "brotli": 0,
+      "parent": "dist/debug-DTHO4t6B.js"
+    },
+    {
+      "kind": "chunk",
+      "name": "[unassigned]",
+      "type": "other",
+      "format": "other",
+      "uncompressed": 407,
+      "gzip": 141,
+      "brotli": 0,
+      "parent": "dist/effects-DfhwNcav.js"
+    },
+    {
+      "kind": "chunk",
+      "name": "[unassigned]",
+      "type": "other",
+      "format": "other",
+      "uncompressed": 297,
+      "gzip": 133,
+      "brotli": 0,
+      "parent": "dist/explain-HPo7baou.js"
     },
     {
       "kind": "chunk",
@@ -61,83 +91,157 @@
       "name": "[unassigned]",
       "type": "other",
       "format": "other",
-      "uncompressed": 586,
-      "gzip": 153,
+      "uncompressed": 583,
+      "gzip": 152,
       "brotli": 0,
-      "parent": "dist/keyboard-DkwzmOtc.js"
+      "parent": "dist/keyboard-CSePleVF.js"
     },
     {
       "kind": "chunk",
       "name": "[unassigned]",
       "type": "other",
       "format": "other",
-      "uncompressed": 39230,
-      "gzip": 7755,
+      "uncompressed": 828,
+      "gzip": 139,
       "brotli": 0,
-      "parent": "dist/networkTopology-DFhE6RIm.js"
+      "parent": "dist/labels-COPmN0R9.js"
     },
     {
       "kind": "chunk",
       "name": "[unassigned]",
       "type": "other",
       "format": "other",
-      "uncompressed": 5668,
-      "gzip": 1729,
+      "uncompressed": 1999,
+      "gzip": 876,
       "brotli": 0,
-      "parent": "dist/passes-DU4PM80M.js"
+      "parent": "dist/ltc-BqmbHUoP.js"
     },
     {
       "kind": "chunk",
       "name": "[unassigned]",
       "type": "other",
       "format": "other",
-      "uncompressed": 957,
-      "gzip": 415,
+      "uncompressed": 429,
+      "gzip": 139,
       "brotli": 0,
-      "parent": "dist/picking-DwgOfUU4.js"
+      "parent": "dist/networkDiagram-C9CSQYyE.js"
     },
     {
       "kind": "chunk",
       "name": "[unassigned]",
       "type": "other",
       "format": "other",
-      "uncompressed": 152,
-      "gzip": 127,
+      "uncompressed": 700,
+      "gzip": 152,
       "brotli": 0,
-      "parent": "dist/snapshot-CRYpk07Z.js"
+      "parent": "dist/networkTopology-D3VUUKww.js"
     },
     {
       "kind": "chunk",
       "name": "[unassigned]",
       "type": "other",
       "format": "other",
-      "uncompressed": 218,
-      "gzip": 136,
+      "uncompressed": 72,
+      "gzip": 91,
       "brotli": 0,
-      "parent": "dist/tooltip-il7jzDaC.js"
+      "parent": "dist/parts-hooks-CJlo8AXt.js"
+    },
+    {
+      "kind": "chunk",
+      "name": "[unassigned]",
+      "type": "other",
+      "format": "other",
+      "uncompressed": 86,
+      "gzip": 100,
+      "brotli": 0,
+      "parent": "dist/parts-materials-4scumXV1.js"
+    },
+    {
+      "kind": "chunk",
+      "name": "[unassigned]",
+      "type": "other",
+      "format": "other",
+      "uncompressed": 6151,
+      "gzip": 1821,
+      "brotli": 0,
+      "parent": "dist/passes-CASyynXE.js"
+    },
+    {
+      "kind": "chunk",
+      "name": "[unassigned]",
+      "type": "other",
+      "format": "other",
+      "uncompressed": 1385,
+      "gzip": 596,
+      "brotli": 0,
+      "parent": "dist/picking-DPsvyg2W.js"
+    },
+    {
+      "kind": "chunk",
+      "name": "[unassigned]",
+      "type": "other",
+      "format": "other",
+      "uncompressed": 144,
+      "gzip": 118,
+      "brotli": 0,
+      "parent": "dist/snapshot-CbPf_l4U.js"
+    },
+    {
+      "kind": "chunk",
+      "name": "[unassigned]",
+      "type": "other",
+      "format": "other",
+      "uncompressed": 205,
+      "gzip": 130,
+      "brotli": 0,
+      "parent": "dist/tooltip-DcbOOEfd.js"
     },
     {
       "kind": "asset",
-      "name": "dist/bloom-DAJZus0O.js",
+      "name": "dist/bloom-PeibIMJq.js",
       "type": "script",
-      "uncompressed": 6205,
-      "gzip": 2062,
+      "uncompressed": 5231,
+      "gzip": 1954,
+      "brotli": 0
+    },
+    {
+      "kind": "asset",
+      "name": "dist/core-DjyE2R8I.js",
+      "type": "script",
+      "uncompressed": 304858,
+      "gzip": 90885,
+      "brotli": 0
+    },
+    {
+      "kind": "asset",
+      "name": "dist/debug-DTHO4t6B.js",
+      "type": "script",
+      "uncompressed": 8613,
+      "gzip": 3174,
       "brotli": 0
     },
     {
       "kind": "asset",
       "name": "dist/dpuse-tool-phoria2-visualiser.es.js",
       "type": "script",
-      "uncompressed": 314,
-      "gzip": 230,
+      "uncompressed": 567,
+      "gzip": 265,
       "brotli": 0
     },
     {
       "kind": "asset",
-      "name": "dist/explain-_vpezk3L.js",
+      "name": "dist/effects-DfhwNcav.js",
       "type": "script",
-      "uncompressed": 6105,
-      "gzip": 2699,
+      "uncompressed": 10815,
+      "gzip": 3684,
+      "brotli": 0
+    },
+    {
+      "kind": "asset",
+      "name": "dist/explain-HPo7baou.js",
+      "type": "script",
+      "uncompressed": 9733,
+      "gzip": 4066,
       "brotli": 0
     },
     {
@@ -150,50 +254,90 @@
     },
     {
       "kind": "asset",
-      "name": "dist/keyboard-DkwzmOtc.js",
+      "name": "dist/keyboard-CSePleVF.js",
       "type": "script",
-      "uncompressed": 7345,
-      "gzip": 2775,
+      "uncompressed": 7143,
+      "gzip": 2718,
       "brotli": 0
     },
     {
       "kind": "asset",
-      "name": "dist/networkTopology-DFhE6RIm.js",
+      "name": "dist/labels-COPmN0R9.js",
       "type": "script",
-      "uncompressed": 255416,
-      "gzip": 76096,
+      "uncompressed": 12112,
+      "gzip": 4376,
       "brotli": 0
     },
     {
       "kind": "asset",
-      "name": "dist/passes-DU4PM80M.js",
+      "name": "dist/ltc-BqmbHUoP.js",
       "type": "script",
-      "uncompressed": 19369,
-      "gzip": 5850,
+      "uncompressed": 69998,
+      "gzip": 48872,
       "brotli": 0
     },
     {
       "kind": "asset",
-      "name": "dist/picking-DwgOfUU4.js",
+      "name": "dist/networkDiagram-C9CSQYyE.js",
       "type": "script",
-      "uncompressed": 6837,
-      "gzip": 2807,
+      "uncompressed": 4113,
+      "gzip": 1857,
       "brotli": 0
     },
     {
       "kind": "asset",
-      "name": "dist/snapshot-CRYpk07Z.js",
+      "name": "dist/networkTopology-D3VUUKww.js",
       "type": "script",
-      "uncompressed": 2198,
-      "gzip": 1066,
+      "uncompressed": 7439,
+      "gzip": 2908,
       "brotli": 0
     },
     {
       "kind": "asset",
-      "name": "dist/tooltip-il7jzDaC.js",
+      "name": "dist/parts-hooks-CJlo8AXt.js",
       "type": "script",
-      "uncompressed": 2866,
-      "gzip": 1282,
+      "uncompressed": 8457,
+      "gzip": 2239,
+      "brotli": 0
+    },
+    {
+      "kind": "asset",
+      "name": "dist/parts-materials-4scumXV1.js",
+      "type": "script",
+      "uncompressed": 5864,
+      "gzip": 2231,
+      "brotli": 0
+    },
+    {
+      "kind": "asset",
+      "name": "dist/passes-CASyynXE.js",
+      "type": "script",
+      "uncompressed": 39203,
+      "gzip": 14560,
+      "brotli": 0
+    },
+    {
+      "kind": "asset",
+      "name": "dist/picking-DPsvyg2W.js",
+      "type": "script",
+      "uncompressed": 7092,
+      "gzip": 3025,
+      "brotli": 0
+    },
+    {
+      "kind": "asset",
+      "name": "dist/snapshot-CbPf_l4U.js",
+      "type": "script",
+      "uncompressed": 2254,
+      "gzip": 1083,
+      "brotli": 0
+    },
+    {
+      "kind": "asset",
+      "name": "dist/tooltip-DcbOOEfd.js",
+      "type": "script",
+      "uncompressed": 2708,
+      "gzip": 1235,
       "brotli": 0
     },
     {
@@ -201,51 +345,85 @@
       "name": "node_modules/phoria2/dist/bloom.js",
       "type": "script",
       "format": "esm",
-      "uncompressed": 6203
+      "uncompressed": 5240
     },
     {
       "kind": "chunk",
       "name": "node_modules/phoria2/dist/bloom.js",
       "type": "script",
       "format": "esm",
-      "uncompressed": 4868,
-      "gzip": 1541,
+      "uncompressed": 2559,
+      "gzip": 948,
       "brotli": 0,
-      "parent": "dist/bloom-DAJZus0O.js"
+      "parent": "dist/bloom-PeibIMJq.js"
     },
     {
       "kind": "filesystem",
       "name": "node_modules/phoria2/dist/core.js",
       "type": "script",
       "format": "esm",
-      "uncompressed": 281078
+      "uncompressed": 341827
     },
     {
       "kind": "chunk",
       "name": "node_modules/phoria2/dist/core.js",
       "type": "script",
       "format": "esm",
-      "uncompressed": 209402,
-      "gzip": 65554,
+      "uncompressed": 260521,
+      "gzip": 81802,
       "brotli": 0,
-      "parent": "dist/networkTopology-DFhE6RIm.js"
+      "parent": "dist/core-DjyE2R8I.js"
+    },
+    {
+      "kind": "filesystem",
+      "name": "node_modules/phoria2/dist/debug.js",
+      "type": "script",
+      "format": "esm",
+      "uncompressed": 8621
+    },
+    {
+      "kind": "chunk",
+      "name": "node_modules/phoria2/dist/debug.js",
+      "type": "script",
+      "format": "esm",
+      "uncompressed": 7705,
+      "gzip": 3012,
+      "brotli": 0,
+      "parent": "dist/debug-DTHO4t6B.js"
+    },
+    {
+      "kind": "filesystem",
+      "name": "node_modules/phoria2/dist/effects.js",
+      "type": "script",
+      "format": "esm",
+      "uncompressed": 10828
+    },
+    {
+      "kind": "chunk",
+      "name": "node_modules/phoria2/dist/effects.js",
+      "type": "script",
+      "format": "esm",
+      "uncompressed": 10408,
+      "gzip": 3543,
+      "brotli": 0,
+      "parent": "dist/effects-DfhwNcav.js"
     },
     {
       "kind": "filesystem",
       "name": "node_modules/phoria2/dist/explain.js",
       "type": "script",
       "format": "esm",
-      "uncompressed": 6100
+      "uncompressed": 9740
     },
     {
       "kind": "chunk",
       "name": "node_modules/phoria2/dist/explain.js",
       "type": "script",
       "format": "esm",
-      "uncompressed": 5918,
-      "gzip": 2568,
+      "uncompressed": 9436,
+      "gzip": 3933,
       "brotli": 0,
-      "parent": "dist/explain-_vpezk3L.js"
+      "parent": "dist/explain-HPo7baou.js"
     },
     {
       "kind": "filesystem",
@@ -269,109 +447,211 @@
       "name": "node_modules/phoria2/dist/keyboard.js",
       "type": "script",
       "format": "esm",
-      "uncompressed": 7342
+      "uncompressed": 7152
     },
     {
       "kind": "chunk",
       "name": "node_modules/phoria2/dist/keyboard.js",
       "type": "script",
       "format": "esm",
-      "uncompressed": 6759,
-      "gzip": 2622,
+      "uncompressed": 6560,
+      "gzip": 2566,
       "brotli": 0,
-      "parent": "dist/keyboard-DkwzmOtc.js"
+      "parent": "dist/keyboard-CSePleVF.js"
+    },
+    {
+      "kind": "filesystem",
+      "name": "node_modules/phoria2/dist/labels.js",
+      "type": "script",
+      "format": "esm",
+      "uncompressed": 11995
+    },
+    {
+      "kind": "chunk",
+      "name": "node_modules/phoria2/dist/labels.js",
+      "type": "script",
+      "format": "esm",
+      "uncompressed": 11103,
+      "gzip": 4071,
+      "brotli": 0,
+      "parent": "dist/labels-COPmN0R9.js"
+    },
+    {
+      "kind": "filesystem",
+      "name": "node_modules/phoria2/dist/ltc.js",
+      "type": "script",
+      "format": "esm",
+      "uncompressed": 70030
+    },
+    {
+      "kind": "chunk",
+      "name": "node_modules/phoria2/dist/ltc.js",
+      "type": "script",
+      "format": "esm",
+      "uncompressed": 67999,
+      "gzip": 47996,
+      "brotli": 0,
+      "parent": "dist/ltc-BqmbHUoP.js"
+    },
+    {
+      "kind": "filesystem",
+      "name": "node_modules/phoria2/dist/parts-hooks.js",
+      "type": "script",
+      "format": "esm",
+      "uncompressed": 8453
+    },
+    {
+      "kind": "chunk",
+      "name": "node_modules/phoria2/dist/parts-hooks.js",
+      "type": "script",
+      "format": "esm",
+      "uncompressed": 8385,
+      "gzip": 2148,
+      "brotli": 0,
+      "parent": "dist/parts-hooks-CJlo8AXt.js"
+    },
+    {
+      "kind": "filesystem",
+      "name": "node_modules/phoria2/dist/parts-materials.js",
+      "type": "script",
+      "format": "esm",
+      "uncompressed": 5892
+    },
+    {
+      "kind": "chunk",
+      "name": "node_modules/phoria2/dist/parts-materials.js",
+      "type": "script",
+      "format": "esm",
+      "uncompressed": 5778,
+      "gzip": 2131,
+      "brotli": 0,
+      "parent": "dist/parts-materials-4scumXV1.js"
     },
     {
       "kind": "filesystem",
       "name": "node_modules/phoria2/dist/passes.js",
       "type": "script",
       "format": "esm",
-      "uncompressed": 19400
+      "uncompressed": 39237
     },
     {
       "kind": "chunk",
       "name": "node_modules/phoria2/dist/passes.js",
       "type": "script",
       "format": "esm",
-      "uncompressed": 13701,
-      "gzip": 4121,
+      "uncompressed": 33052,
+      "gzip": 12739,
       "brotli": 0,
-      "parent": "dist/passes-DU4PM80M.js"
+      "parent": "dist/passes-CASyynXE.js"
     },
     {
       "kind": "filesystem",
       "name": "node_modules/phoria2/dist/phoria2.js",
       "type": "script",
       "format": "esm",
-      "uncompressed": 897
+      "uncompressed": 950
     },
     {
       "kind": "filesystem",
       "name": "node_modules/phoria2/dist/picking.js",
       "type": "script",
       "format": "esm",
-      "uncompressed": 6839
+      "uncompressed": 7113
     },
     {
       "kind": "chunk",
       "name": "node_modules/phoria2/dist/picking.js",
       "type": "script",
       "format": "esm",
-      "uncompressed": 5880,
-      "gzip": 2392,
+      "uncompressed": 5707,
+      "gzip": 2429,
       "brotli": 0,
-      "parent": "dist/picking-DwgOfUU4.js"
+      "parent": "dist/picking-DPsvyg2W.js"
+    },
+    {
+      "kind": "filesystem",
+      "name": "node_modules/phoria2/dist/rolldown-runtime.js",
+      "type": "script",
+      "format": "esm",
+      "uncompressed": 228
+    },
+    {
+      "kind": "chunk",
+      "name": "node_modules/phoria2/dist/rolldown-runtime.js",
+      "type": "script",
+      "format": "esm",
+      "uncompressed": 181,
+      "gzip": 166,
+      "brotli": 0,
+      "parent": "dist/labels-COPmN0R9.js"
     },
     {
       "kind": "filesystem",
       "name": "node_modules/phoria2/dist/snapshot.js",
       "type": "script",
       "format": "esm",
-      "uncompressed": 2194
+      "uncompressed": 2260
     },
     {
       "kind": "chunk",
       "name": "node_modules/phoria2/dist/snapshot.js",
       "type": "script",
       "format": "esm",
-      "uncompressed": 2046,
-      "gzip": 939,
+      "uncompressed": 2110,
+      "gzip": 965,
       "brotli": 0,
-      "parent": "dist/snapshot-CRYpk07Z.js"
+      "parent": "dist/snapshot-CbPf_l4U.js"
     },
     {
       "kind": "filesystem",
       "name": "node_modules/phoria2/dist/tooltip.js",
       "type": "script",
       "format": "esm",
-      "uncompressed": 2862
+      "uncompressed": 2715
     },
     {
       "kind": "chunk",
       "name": "node_modules/phoria2/dist/tooltip.js",
       "type": "script",
       "format": "esm",
-      "uncompressed": 2648,
-      "gzip": 1146,
+      "uncompressed": 2503,
+      "gzip": 1105,
       "brotli": 0,
-      "parent": "dist/tooltip-il7jzDaC.js"
+      "parent": "dist/tooltip-DcbOOEfd.js"
     },
     {
       "kind": "filesystem",
       "name": "src/index.ts",
       "type": "script",
       "format": "esm",
-      "uncompressed": 393
+      "uncompressed": 730
     },
     {
       "kind": "chunk",
       "name": "src/index.ts",
       "type": "script",
       "format": "esm",
-      "uncompressed": 256,
-      "gzip": 176,
+      "uncompressed": 489,
+      "gzip": 210,
       "brotli": 0,
       "parent": "dist/dpuse-tool-phoria2-visualiser.es.js"
+    },
+    {
+      "kind": "filesystem",
+      "name": "src/networkDiagram.ts",
+      "type": "script",
+      "format": "esm",
+      "uncompressed": 6197
+    },
+    {
+      "kind": "chunk",
+      "name": "src/networkDiagram.ts",
+      "type": "script",
+      "format": "esm",
+      "uncompressed": 3684,
+      "gzip": 1718,
+      "brotli": 0,
+      "parent": "dist/networkDiagram-C9CSQYyE.js"
     },
     {
       "kind": "filesystem",
@@ -385,13 +665,19 @@
       "name": "src/networkTopology.ts",
       "type": "script",
       "format": "esm",
-      "uncompressed": 6784,
-      "gzip": 2786,
+      "uncompressed": 6739,
+      "gzip": 2756,
       "brotli": 0,
-      "parent": "dist/networkTopology-DFhE6RIm.js"
+      "parent": "dist/networkTopology-D3VUUKww.js"
     }
   ],
   "connections": [
+    {
+      "kind": "dynamic-import",
+      "source": "src/index.ts",
+      "target": "src/networkDiagram.ts",
+      "original": null
+    },
     {
       "kind": "dynamic-import",
       "source": "src/index.ts",
@@ -402,6 +688,18 @@
       "kind": "dynamic-import",
       "source": "node_modules/phoria2/dist/core.js",
       "target": "node_modules/phoria2/dist/hdr.js",
+      "original": null
+    },
+    {
+      "kind": "dynamic-import",
+      "source": "node_modules/phoria2/dist/core.js",
+      "target": "node_modules/phoria2/dist/parts-materials.js",
+      "original": null
+    },
+    {
+      "kind": "dynamic-import",
+      "source": "node_modules/phoria2/dist/core.js",
+      "target": "node_modules/phoria2/dist/parts-hooks.js",
       "original": null
     },
     {
@@ -425,6 +723,24 @@
     {
       "kind": "dynamic-import",
       "source": "node_modules/phoria2/dist/core.js",
+      "target": "node_modules/phoria2/dist/effects.js",
+      "original": null
+    },
+    {
+      "kind": "dynamic-import",
+      "source": "node_modules/phoria2/dist/core.js",
+      "target": "node_modules/phoria2/dist/ltc.js",
+      "original": null
+    },
+    {
+      "kind": "dynamic-import",
+      "source": "node_modules/phoria2/dist/core.js",
+      "target": "node_modules/phoria2/dist/labels.js",
+      "original": null
+    },
+    {
+      "kind": "dynamic-import",
+      "source": "node_modules/phoria2/dist/core.js",
       "target": "node_modules/phoria2/dist/tooltip.js",
       "original": null
     },
@@ -432,6 +748,12 @@
       "kind": "dynamic-import",
       "source": "node_modules/phoria2/dist/core.js",
       "target": "node_modules/phoria2/dist/keyboard.js",
+      "original": null
+    },
+    {
+      "kind": "dynamic-import",
+      "source": "node_modules/phoria2/dist/core.js",
+      "target": "node_modules/phoria2/dist/debug.js",
       "original": null
     },
     {
@@ -454,13 +776,25 @@
     },
     {
       "kind": "entrypoint",
-      "source": "dist/bloom-DAJZus0O.js",
+      "source": "dist/bloom-PeibIMJq.js",
       "target": "node_modules/phoria2/dist/bloom.js",
       "original": null
     },
     {
       "kind": "entrypoint",
-      "source": "dist/explain-_vpezk3L.js",
+      "source": "dist/debug-DTHO4t6B.js",
+      "target": "node_modules/phoria2/dist/debug.js",
+      "original": null
+    },
+    {
+      "kind": "entrypoint",
+      "source": "dist/effects-DfhwNcav.js",
+      "target": "node_modules/phoria2/dist/effects.js",
+      "original": null
+    },
+    {
+      "kind": "entrypoint",
+      "source": "dist/explain-HPo7baou.js",
       "target": "node_modules/phoria2/dist/explain.js",
       "original": null
     },
@@ -472,37 +806,67 @@
     },
     {
       "kind": "entrypoint",
-      "source": "dist/keyboard-DkwzmOtc.js",
+      "source": "dist/keyboard-CSePleVF.js",
       "target": "node_modules/phoria2/dist/keyboard.js",
       "original": null
     },
     {
       "kind": "entrypoint",
-      "source": "dist/networkTopology-DFhE6RIm.js",
+      "source": "dist/labels-COPmN0R9.js",
+      "target": "node_modules/phoria2/dist/labels.js",
+      "original": null
+    },
+    {
+      "kind": "entrypoint",
+      "source": "dist/ltc-BqmbHUoP.js",
+      "target": "node_modules/phoria2/dist/ltc.js",
+      "original": null
+    },
+    {
+      "kind": "entrypoint",
+      "source": "dist/networkDiagram-C9CSQYyE.js",
+      "target": "src/networkDiagram.ts",
+      "original": null
+    },
+    {
+      "kind": "entrypoint",
+      "source": "dist/networkTopology-D3VUUKww.js",
       "target": "src/networkTopology.ts",
       "original": null
     },
     {
       "kind": "entrypoint",
-      "source": "dist/passes-DU4PM80M.js",
+      "source": "dist/parts-hooks-CJlo8AXt.js",
+      "target": "node_modules/phoria2/dist/parts-hooks.js",
+      "original": null
+    },
+    {
+      "kind": "entrypoint",
+      "source": "dist/parts-materials-4scumXV1.js",
+      "target": "node_modules/phoria2/dist/parts-materials.js",
+      "original": null
+    },
+    {
+      "kind": "entrypoint",
+      "source": "dist/passes-CASyynXE.js",
       "target": "node_modules/phoria2/dist/passes.js",
       "original": null
     },
     {
       "kind": "entrypoint",
-      "source": "dist/picking-DwgOfUU4.js",
+      "source": "dist/picking-DPsvyg2W.js",
       "target": "node_modules/phoria2/dist/picking.js",
       "original": null
     },
     {
       "kind": "entrypoint",
-      "source": "dist/snapshot-CRYpk07Z.js",
+      "source": "dist/snapshot-CbPf_l4U.js",
       "target": "node_modules/phoria2/dist/snapshot.js",
       "original": null
     },
     {
       "kind": "entrypoint",
-      "source": "dist/tooltip-il7jzDaC.js",
+      "source": "dist/tooltip-DcbOOEfd.js",
       "target": "node_modules/phoria2/dist/tooltip.js",
       "original": null
     }
